@@ -1,13 +1,13 @@
-Region,City
-01,"Dresden, Riesa, Meißen, Bischofswerda"
-02,"Görlitz, Bautzen, Hoyerswerda, Zittau"
-03,"Cottbus, Finsterwalde, Forst (Lausitz), Spremberg"
-04,"Leipzig, Altenburg, Eilenburg, Torgau"
-05,– (Reserved)
-06,"Halle (Saale), Dessau-Roßlau, Quedlinburg, Zeitz"
-07,"Gera, Jena, Saalfeld/Saale, Greiz"
-08,"Plauen, Zwickau, Aue, Klingenthal"
-09,"Chemnitz, Annaberg-Buchholz, Zschopau, Freiberg"
+Region,Area
+1,"Dresden, Riesa, Meißen, Bischofswerda"
+2,"Görlitz, Bautzen, Hoyerswerda, Zittau"
+3,"Cottbus, Finsterwalde, Forst (Lausitz), Spremberg"
+4,"Leipzig, Altenburg, Eilenburg, Torgau"
+5,– (Reserved)
+6,"Halle (Saale), Dessau-Roßlau, Quedlinburg, Zeitz"
+7,"Gera, Jena, Saalfeld/Saale, Greiz"
+8,"Plauen, Zwickau, Aue, Klingenthal"
+9,"Chemnitz, Annaberg-Buchholz, Zschopau, Freiberg"
 10,Berlin city centre
 11,Federal Institutions in Berlin
 12,South and South-East Berlin
